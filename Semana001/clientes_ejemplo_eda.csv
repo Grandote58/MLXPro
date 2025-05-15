@@ -1,0 +1,9 @@
+cliente_id,edad,genero,ingreso_mensual,compro
+101,25.0,Femenino,30000.0,Sí
+102,30.0,Masculino,35000.0,Sí
+103,45.0,Masculino,50000.0,No
+104,,femenino,40000.0,Sí
+105,105.0,FEMENINO,-999.0,No
+106,28.0,Masculino,32000.0,Sí
+107,30.0,Masculino,,¿Sí?
+108,30.0,Masculino,35000.0,Sí
